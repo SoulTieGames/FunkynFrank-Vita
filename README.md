@@ -8,11 +8,11 @@ Bummer. Still, the forest is a fun survival level. If I find time, I might port 
 Don't hold your breath for the campaign mode though.
 If you've ever played the PC version, you know the sandworms are super fun to fight. I haven't added those to the Vita yet, but I plan to.
 
-KNOWN ISSUES
+KNOWN ISSUES:
  If you choose Frank as your character, melee weapons won't work. Either Choose Funky for your character, or only use firearms.
  The framerate drops significantly in the pause menu, but it still works. 
 
-CONTROLS
+CONTROLS:
  RIGHT TRIGGER to shoot.
  LEFT TRIGGER brings up the weapon wheel.
  With the weapon wheel up, press TRIANGLE to swith the the Item wheel.
