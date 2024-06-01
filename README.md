@@ -9,8 +9,8 @@ Don't hold your breath for the campaign mode though.
 If you've ever played the PC version, you know the sandworms are super fun to fight. I haven't added those to the Vita yet, but I plan to.
 
 # KNOWN ISSUES:
- If you choose Frank as your character, melee weapons won't work. Either Choose Funky for your character, or only use firearms.
- The framerate drops significantly in the pause menu, but it still works. 
+ + If you choose Frank as your character, melee weapons won't work. Either Choose Funky for your character, or only use firearms.
+ + The framerate drops significantly in the pause menu, but it still works. 
 
 # CONTROLS:
  + **RIGHT TRIGGER** to shoot.
